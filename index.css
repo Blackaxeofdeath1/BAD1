@@ -16,7 +16,7 @@
 }
 
 .g {
-    font-size: 50pt;
+    font-size: 40pt;
 }
 
 .baod1 {
@@ -44,5 +44,5 @@ body {
 
 .ps4 {
     max-height: auto;
-    max-width: 750px;
+    max-width: 400px;
 }
