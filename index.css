@@ -12,11 +12,13 @@
     background-color: black;
     color: rgb(212, 32, 32);
     text-align: center;
-    opacity: .95;
+    opacity: .85;
 }
 
 .g {
-    font-size: 30pt;
+    font-size: 50pt;
+    font-family: 'Sedgwick-Ave', Georgia, 'Times New Roman', Times, serif;
+}
 }
 
 .baod1 {
@@ -26,23 +28,46 @@
 }
 
 body {
-    margin-top: 0%;
+       margin-top: 0%;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: auto;
     font-size: 25pt;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto Mono' Georgia, 'Times New Roman', Times, serif;
     text-align: center;
+    background-image: url(./images/johnnymag1.jpg);
+    background-position: center;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    color: rgb(212, 32, 32);
+    background-blend-mode: darken;
+}
+
+.natural {
+    font-size: 70px;
     background-color: rgb(212, 32, 32);
     color: black;
+}
+
+.nat {
+    background-color: black;
+    opacity: 0.85;
 }
 
 .ps3 {
     max-width: 250px;
     max-height: 250px;
+    border-radius: 75%;
 }
 
 .ps4 {
-    max-height: auto;
-    max-width: 400px;
+    max-height: 315px;
+    max-width: 560px;
+}
+
+footer {
+    text-align: justify;
+    background-color: black;
+    opacity: 0.85;
 }
