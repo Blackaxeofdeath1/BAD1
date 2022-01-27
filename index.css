@@ -16,7 +16,7 @@
 }
 
 .g {
-    font-size: 50pt;
+    font-size: 35pt;
     font-family: 'Sedgwick-Ave', Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -62,7 +62,7 @@ body {
 
 .ps4 {
     max-height: 315px;
-    max-width: 560px;
+    max-width: 425px;
 }
 
 footer {
